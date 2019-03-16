@@ -1,7 +1,11 @@
+html {
+  background: rgb(175, 175, 19)
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: rgb(255, 196, 0);
 }
 
 .label {
